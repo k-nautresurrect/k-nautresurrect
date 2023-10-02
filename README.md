@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "30px">, I'm [Kushagra](#)
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "30px">, I'm Kushagra
 <a href="https://linkedin.com/in/">
 	<img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align = "left" width = "24px">
 </a>
